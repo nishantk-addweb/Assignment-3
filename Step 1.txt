@@ -1,0 +1,16 @@
+Step 1: Get PHP Installed
+
+----------------------
+1) go to the "https://www.apachefriends.org" site.
+
+2) click on download section.
+
+3) download latest version of xampp/MAMP/WAMP which includes MariaDB,php version 7.4.7 annd perl
+
+4) open setup and install 
+
+5) open command propt and run php -v to check php is successfully installed or not.
+
+6) open xampp control panel and start apache and mysql.
+---------------------- 
+

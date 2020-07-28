@@ -1,0 +1,7 @@
+step 21 : Composer Autoloading
+
+1) Goto the "https://getcomposer.org/download" and download setup
+
+2) open and install composer setup
+
+3) open cmd and run 'composer -v' to check installed or not

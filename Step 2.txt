@@ -1,0 +1,9 @@
+Step 2 : Install a Proper Code Editor
+
+-------------------
+1) Go to the "sublimetext.com" site and download setup.
+
+2) open and install setup.
+
+3) open sublime text and start work on it.
+-------------------

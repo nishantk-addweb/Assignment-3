@@ -1,0 +1,11 @@
+Step 25 : Meet Your Batteries Included Framework : Laravel
+
+1)	first install composer 
+2) 	open cmd and run this following commands
+	- "composer global require laravel/installer"
+	then,
+	- run 'composer create-project --prefer-dist laravel/laravel blog' to create new project.
+	then,
+	-GO TO THE PROJECT DIRECTERY AND RUN 'php artisan serve'.
+
+3) 	visit "localhost:8000" to see index page of project.
